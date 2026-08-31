@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"ca4f3ea459dc7866","x":684,"y":90,"width":250,"height":60,"type":"text","text":"创建模型，设定超参数"},
+		{"id":"5142d9fe2bac9568","x":684,"y":259,"width":250,"height":60,"type":"text","text":"启动模型训练（fit）"},
+		{"id":"57a24d39d8b71882","x":1240,"y":150,"width":250,"height":60,"color":"1","type":"text","text":"前向传播 "},
+		{"id":"6e8ee5ebb031a8f7","x":1580,"y":440,"width":250,"height":60,"type":"text","text":"反向传播"},
+		{"id":"67125d0c209b0de6","x":720,"y":-320,"width":250,"height":60,"type":"text","text":"批次大小（batch size, bs）"},
+		{"id":"c53d057f5664c542","x":880,"y":-240,"width":250,"height":60,"type":"text","text":"\n训练轮次（epoch）"},
+		{"id":"540c5fdf3c01111d","x":580,"y":-400,"width":250,"height":60,"type":"text","text":"学习率（learning rate, lr）"},
+		{"id":"7aea5b75b48ca490","x":455,"y":580,"width":250,"height":60,"type":"text","text":"获得模型权重（pt）"},
+		{"id":"6064fd682404929e","x":-30,"y":580,"width":250,"height":58,"type":"text","text":"推理测试数据（test）"},
+		{"id":"c85eb18333a9d003","x":95,"y":259,"width":250,"height":60,"type":"text","text":"图像输入（path）\n（os, cv 2, PIL）"},
+		{"id":"b6fd396b72abcf49","x":330,"y":155,"width":250,"height":50,"type":"text","text":"获取标签（label）\n(os)"},
+		{"id":"5af04875eda6bc18","x":1040,"y":-150,"width":250,"height":60,"type":"text","text":"优化器（optimizer）"},
+		{"id":"54671d97abe788fc","x":1640,"y":30,"width":250,"height":60,"type":"text","text":"图像预处理（prepare）\n（归一化，数据增强...）"},
+		{"id":"06dd4aac17807573","x":2080,"y":30,"width":220,"height":60,"type":"text","text":"卷积层"},
+		{"id":"d53ce9ef54d39a5a","x":1830,"y":-120,"width":250,"height":60,"type":"text","text":"池化层"},
+		{"id":"692ebd3818d51e94","x":1005,"y":470,"width":250,"height":60,"type":"text","text":"损失函数（loss）"}
+	],
+	"edges":[
+		{"id":"c7f7b1b7b9588d16","fromNode":"c85eb18333a9d003","fromSide":"top","toNode":"b6fd396b72abcf49","toSide":"left","color":"5"},
+		{"id":"7864c71e4529dc45","fromNode":"b6fd396b72abcf49","fromSide":"right","toNode":"5142d9fe2bac9568","toSide":"left","color":"5"},
+		{"id":"7928b02bb042329b","fromNode":"ca4f3ea459dc7866","fromSide":"bottom","toNode":"5142d9fe2bac9568","toSide":"top","color":"5"},
+		{"id":"687acaacd4f8cf0c","fromNode":"5142d9fe2bac9568","fromSide":"bottom","toNode":"7aea5b75b48ca490","toSide":"right","color":"1"},
+		{"id":"3f4458c3f590c35a","fromNode":"7aea5b75b48ca490","fromSide":"left","toNode":"6064fd682404929e","toSide":"right","color":"5"},
+		{"id":"53c1f99e0117f567","fromNode":"540c5fdf3c01111d","fromSide":"bottom","toNode":"ca4f3ea459dc7866","toSide":"top","color":"4"},
+		{"id":"23e16931a6490cb4","fromNode":"5142d9fe2bac9568","fromSide":"right","toNode":"57a24d39d8b71882","toSide":"left","color":"3"},
+		{"id":"47eb55c952c8eaf6","fromNode":"57a24d39d8b71882","fromSide":"right","toNode":"6e8ee5ebb031a8f7","toSide":"right","color":"3","label":"预测值（y_predict）"},
+		{"id":"f9e498672bbb22cb","fromNode":"6e8ee5ebb031a8f7","fromSide":"left","toNode":"57a24d39d8b71882","toSide":"left","color":"3","label":"损失值（loss）"},
+		{"id":"668ef93d5e3e187d","fromNode":"67125d0c209b0de6","fromSide":"bottom","toNode":"ca4f3ea459dc7866","toSide":"top","color":"4"},
+		{"id":"b5b9a40e179b904f","fromNode":"c53d057f5664c542","fromSide":"bottom","toNode":"ca4f3ea459dc7866","toSide":"top","color":"4"},
+		{"id":"e633e42bde437277","fromNode":"5af04875eda6bc18","fromSide":"bottom","toNode":"57a24d39d8b71882","toSide":"top","color":"4"},
+		{"id":"07fe38ee536b2c2c","fromNode":"692ebd3818d51e94","fromSide":"top","toNode":"6e8ee5ebb031a8f7","toSide":"bottom","color":"4"},
+		{"id":"136d3dc836802e08","fromNode":"57a24d39d8b71882","fromSide":"right","toNode":"54671d97abe788fc","toSide":"left","color":"5"},
+		{"id":"ee8215406663b4c3","fromNode":"c85eb18333a9d003","fromSide":"right","toNode":"5142d9fe2bac9568","toSide":"left","color":"5","label":"np.array"},
+		{"id":"9adf7a07e51b00d3","fromNode":"54671d97abe788fc","fromSide":"right","toNode":"06dd4aac17807573","toSide":"left","color":"5"},
+		{"id":"ffc636504ee72d5a","fromNode":"06dd4aac17807573","fromSide":"right","toNode":"d53ce9ef54d39a5a","toSide":"right","color":"5"},
+		{"id":"0377a5ebeb029951","fromNode":"d53ce9ef54d39a5a","fromSide":"left","toNode":"54671d97abe788fc","toSide":"left","color":"5"},
+		{"id":"ccf7967b5b900009","fromNode":"54671d97abe788fc","fromSide":"right","toNode":"6e8ee5ebb031a8f7","toSide":"right","color":"5"},
+		{"id":"68bfc50addf82a78","fromNode":"5af04875eda6bc18","fromSide":"bottom","toNode":"ca4f3ea459dc7866","toSide":"top","color":"4"}
+	]
+}
