@@ -1,7 +1,7 @@
 [] 1. GPTSovit
 	- weather
 	- chrome
-	- ----
+	- ---------------------
 	- voice input (ASR)
 	- translation
 
