@@ -16,4 +16,4 @@
 [] 3. Minecraft Bot architecture
 	- dreamer v4 (based World model)
 
-
+[] 4. Auto Clean robot
