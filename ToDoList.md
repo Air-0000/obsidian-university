@@ -5,6 +5,8 @@
 	- voice input (ASR)
 	- translation
 
+
+
 [] 2. Ceamra Based Glasses
 	- stm 32 (ov + mico)
 	- based event record 
