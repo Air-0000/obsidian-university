@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:AGC_perception  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:University/Math/高等数学  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:University/Math/线性代数  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:University/Math/概率统计  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"University/Circuit Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 1.1,
+  "nodeSizeMultiplier": 1.36562065972222,
+  "lineSizeMultiplier": 3.25373697916667,
+  "collapse-forces": false,
+  "centerStrength": 0.26953125,
+  "repelStrength": 15.1241319444444,
+  "linkStrength": 0.217057291666667,
+  "linkDistance": 397,
+  "scale": 0.18229647198754342,
+  "close": true
+}

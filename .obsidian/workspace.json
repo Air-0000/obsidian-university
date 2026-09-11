@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "232064c208b11e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdaf9e9ab4e5a502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08ef2c4ccfdb307a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "留数定理应用于裂项"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2469dfc5abe3945e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e034623e96dd3e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea754d871fe4db1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "747d8a40f25d6098",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "40c71e3958008519",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482
+  },
+  "right": {
+    "id": "b6b5c640302d6456",
+    "type": "split",
+    "children": [
+      {
+        "id": "c01cc10443cb180b",
+        "type": "tabs",
+        "dimension": 38.377192982456144,
+        "children": [
+          {
+            "id": "5e7e0706f336494d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "da0f9111ddb2bd8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "38f212fff6c22a90",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "469d36a309e9de6e",
+        "type": "tabs",
+        "dimension": 61.622807017543856,
+        "children": [
+          {
+            "id": "7132acd899dcb473",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "83f5ecd52e11c05c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "简历经历记录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "简历经历记录 的出链列表"
+            }
+          },
+          {
+            "id": "761701680a2ed67a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "简历经历记录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.6666259765625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": true
+    }
+  },
+  "active": "08ef2c4ccfdb307a",
+  "lastOpenFiles": [
+    "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
+    "University/InClass/Physics/大学物理/力矩的定义与运用.md",
+    "University/InClass/Physics/大学物理/转动惯量的定义与应用.md",
+    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
+    "GPTSovit.canvas",
+    "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
+    "University/InClass/Math/高等数学/03-一元积分学/定积分",
+    "University/InClass/Math/高等数学/03-一元积分学/不定积分",
+    "README.md",
+    "Vision.canvas",
+    "ToDoList.md",
+    "2026-05-09（todo：x）.md",
+    "2026-05-26（todo：x）.md",
+    "2026-05-31（todo：x）.md",
+    "2026-06-05（todo：x）.md",
+    "2026-06-06（todo：x）.md",
+    "2026-06-09.md",
+    "2026-07-05.md",
+    "2026-07-06.md",
+    "第一轮次任务清单.md",
+    "简历经历记录.md",
+    "Pasted image 20260828044003.png",
+    "Pasted image 20260828043910.png",
+    "简历附件/长沙理工大学_26322000006360346231.pdf",
+    "简历附件/长沙理工大学_20260704161057.pdf",
+    "简历附件/07-2-项目介绍书.pdf",
+    "MultiModal_fusion/AGC_perception/CoopTrack/CoopTrack_article.md",
+    "Tree/MultiModal_fusion.canvas",
+    "Tree",
+    "MultiModal_fusion/Multi_OD",
+    "MultiModal_fusion",
+    "MultiModal_fusion/AGC_perception/AGC.base",
+    "MultiModal_fusion/AGC_perception/CoopTrack/CoopTrack_database.md",
+    "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_structure.md",
+    "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_training_and_evaluation.md",
+    "MultiModal_fusion/AGC_perception/Griffin/Griffin_database.md",
+    "MultiModal_fusion/AGC_perception/Griffin/Griffin_article.md",
+    "Excalidraw/Drawing 2026-05-05 18.57.57.excalidraw.md",
+    "2026-06-07（read：窄门）.md",
+    "2026-05-30（craic：end）.md",
+    "4ce59f04924273993f6a1a1068f5664e.jpg",
+    "简历附件/07-4.jpg",
+    "简历附件/10-1.png",
+    "00ce7cbef1f73fbc828f649ed77ad617.jpg",
+    "简历附件/08-1.png",
+    "简历附件/08-2.png",
+    "简历附件/07-3.png",
+    "简历附件/07-1.png",
+    "2026-07-14.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "theme": "obsidian",
+  "textFontFamily": "Noto Serif SC",
+  "translucency": false,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "snap",
+    "test",
+    "yaozhuwa@CSS",
+    "global",
+    "patch"
+  ],
+  "accentColor": "#aba4bc",
+  "interfaceFontFamily": "Noto Serif SC",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": true
+}
