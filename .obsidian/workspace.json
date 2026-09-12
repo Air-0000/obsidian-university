@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDoList.md",
+                "file": "University/InClass/Math/概率统计/未命名 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ToDoList"
+              "title": "未命名 1"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDoList.md",
+                "file": "University/InClass/Math/概率统计/未命名 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,10 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08ef2c4ccfdb307a",
+  "active": "ea754d871fe4db1f",
   "lastOpenFiles": [
-    "简历经历记录.md",
+    "University/InClass/Math/概率统计",
+    "University/InClass/Math/复变函数与积分变换/未命名.md",
+    "University/InClass/Math/概率统计/未命名 1.md",
     "ToDoList.md",
+    "简历经历记录.md",
     "Vision.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
@@ -248,8 +251,6 @@
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_database.md",
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_article.md",
     "Excalidraw/Drawing 2026-05-05 18.57.57.excalidraw.md",
-    "2026-06-07（read：窄门）.md",
-    "2026-05-30（craic：end）.md",
     "4ce59f04924273993f6a1a1068f5664e.jpg",
     "简历附件/07-4.jpg",
     "简历附件/10-1.png",
