@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/概率统计/未命名 1.md",
+                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "留数定理应用于裂项"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.24609375
+    "width": 482
   },
   "right": {
     "id": "b6b5c640302d6456",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/概率统计/未命名 1.md",
+                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.15625
+    "width": 299.6666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,26 +205,25 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ea754d871fe4db1f",
+  "active": "38f212fff6c22a90",
   "lastOpenFiles": [
+    "University/InClass/Math/概率统计/未命名 1.md",
     "University/InClass/Math/概率统计",
     "University/InClass/Math/复变函数与积分变换/未命名.md",
-    "University/InClass/Math/概率统计/未命名 1.md",
-    "ToDoList.md",
-    "简历经历记录.md",
-    "Vision.canvas",
-    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
     "University/InClass/Physics/大学物理/力矩的定义与运用.md",
     "University/InClass/Physics/大学物理/转动惯量的定义与应用.md",
+    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "GPTSovit.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
     "University/InClass/Math/高等数学/03-一元积分学/定积分",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分",
     "README.md",
+    "Vision.canvas",
+    "ToDoList.md",
     "2026-05-09（todo：x）.md",
     "2026-05-26（todo：x）.md",
     "2026-05-31（todo：x）.md",
@@ -234,6 +233,7 @@
     "2026-07-05.md",
     "2026-07-06.md",
     "第一轮次任务清单.md",
+    "简历经历记录.md",
     "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
     "简历附件/长沙理工大学_26322000006360346231.pdf",
@@ -244,13 +244,13 @@
     "Tree",
     "MultiModal_fusion/Multi_OD",
     "MultiModal_fusion",
-    "MultiModal_fusion/AGC_perception/AGC.base",
     "MultiModal_fusion/AGC_perception/CoopTrack/CoopTrack_database.md",
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_structure.md",
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_training_and_evaluation.md",
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_database.md",
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_article.md",
     "Excalidraw/Drawing 2026-05-05 18.57.57.excalidraw.md",
+    "2026-06-07（read：窄门）.md",
     "4ce59f04924273993f6a1a1068f5664e.jpg",
     "简历附件/07-4.jpg",
     "简历附件/10-1.png",
