@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
+                "file": "简历经历记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "留数定理（复变函数）"
+              "title": "简历经历记录"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
+                "file": "简历经历记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +210,30 @@
   },
   "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
+    "第一轮次任务清单.md",
+    "2026-07-06.md",
+    "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
+    "Excalidraw/参考方向.excalidraw.md",
+    "Excalidraw/电阻等效变换.excalidraw.md",
+    "Excalidraw/诺顿&戴维南.md",
+    "Excalidraw/向量叉乘与混合积.excalidraw.md",
+    "Excalidraw/函数.md",
+    "Excalidraw/二重平面积分.excalidraw.md",
+    "2026-05-10（craic）.md",
+    "2026-05-26（craic）.md",
+    "2026-06-09.md",
+    "简历附件/07-1.png",
+    "简历附件/05-2.jpg",
+    "简历附件/07-2-项目介绍书.pdf",
+    "简历附件/07-3.png",
+    "简历附件/08-2.png",
+    "简历附件/08-1.png",
+    "简历附件/10-2-论文.pdf",
+    "简历附件/10-1.png",
+    "简历附件/长沙理工大学_26322000006360346231.pdf",
+    "简历附件/长沙理工大学_20260704161057.pdf",
+    "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
+    "University.zip",
     "University/InClass/Math/概率统计/未命名 1.md",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计",
@@ -229,35 +253,11 @@
     "2026-05-31（todo：x）.md",
     "2026-06-05（todo：x）.md",
     "2026-06-06（todo：x）.md",
-    "2026-06-09.md",
-    "2026-07-05.md",
-    "2026-07-06.md",
-    "第一轮次任务清单.md",
-    "简历经历记录.md",
     "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
-    "简历附件/长沙理工大学_26322000006360346231.pdf",
-    "简历附件/长沙理工大学_20260704161057.pdf",
-    "简历附件/07-2-项目介绍书.pdf",
-    "MultiModal_fusion/AGC_perception/CoopTrack/CoopTrack_article.md",
     "Tree/MultiModal_fusion.canvas",
     "Tree",
-    "MultiModal_fusion/Multi_OD",
-    "MultiModal_fusion",
-    "MultiModal_fusion/AGC_perception/CoopTrack/CoopTrack_database.md",
-    "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_structure.md",
-    "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_training_and_evaluation.md",
-    "MultiModal_fusion/AGC_perception/Griffin/Griffin_database.md",
-    "MultiModal_fusion/AGC_perception/Griffin/Griffin_article.md",
-    "Excalidraw/Drawing 2026-05-05 18.57.57.excalidraw.md",
-    "2026-06-07（read：窄门）.md",
     "4ce59f04924273993f6a1a1068f5664e.jpg",
-    "简历附件/07-4.jpg",
-    "简历附件/10-1.png",
-    "00ce7cbef1f73fbc828f649ed77ad617.jpg",
-    "简历附件/08-1.png",
-    "简历附件/08-2.png",
-    "简历附件/07-3.png",
-    "简历附件/07-1.png"
+    "简历附件/07-4.jpg"
   ]
 }
