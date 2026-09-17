@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/概率统计/未命名 1.md",
+                "file": "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "留数定理（复变函数）"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/概率统计/未命名 1.md",
+                "file": "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,10 +208,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ea754d871fe4db1f",
+  "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
-    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计/未命名 1.md",
+    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计",
     "University/InClass/Math/复变函数与积分变换/未命名.md",
     "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
