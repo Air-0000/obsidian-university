@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
+                "file": "University/InClass/Math/概率统计/未命名 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "留数定理应用于裂项"
+              "title": "未命名 1"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
+                "file": "University/InClass/Math/概率统计/未命名 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,15 +208,15 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "38f212fff6c22a90",
+  "active": "ea754d871fe4db1f",
   "lastOpenFiles": [
+    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计/未命名 1.md",
     "University/InClass/Math/概率统计",
     "University/InClass/Math/复变函数与积分变换/未命名.md",
     "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
     "University/InClass/Physics/大学物理/力矩的定义与运用.md",
     "University/InClass/Physics/大学物理/转动惯量的定义与应用.md",
-    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "GPTSovit.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
     "University/InClass/Math/高等数学/03-一元积分学/定积分",
