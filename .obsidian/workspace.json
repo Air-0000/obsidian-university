@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简历经历记录.md",
+                "file": "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "简历经历记录"
+              "title": "（水平、铅垂、斜）渐进线的定义与求解"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "简历经历记录.md",
+                "file": "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +210,7 @@
   },
   "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
+    "简历经历记录.md",
     "第一轮次任务清单.md",
     "2026-07-06.md",
     "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
@@ -252,7 +253,6 @@
     "2026-05-26（todo：x）.md",
     "2026-05-31（todo：x）.md",
     "2026-06-05（todo：x）.md",
-    "2026-06-06（todo：x）.md",
     "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
     "Tree/MultiModal_fusion.canvas",
