@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
+                "file": "2026-09-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "（水平、铅垂、斜）渐进线的定义与求解"
+              "title": "2026-09-19"
             }
           }
         ]
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "469d36a309e9de6e",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
+                "file": "2026-09-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +210,8 @@
   },
   "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
+    "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
+    "2026-09-19.md",
     "简历经历记录.md",
     "第一轮次任务清单.md",
     "2026-07-06.md",
@@ -251,8 +253,6 @@
     "ToDoList.md",
     "2026-05-09（todo：x）.md",
     "2026-05-26（todo：x）.md",
-    "2026-05-31（todo：x）.md",
-    "2026-06-05（todo：x）.md",
     "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
     "Tree/MultiModal_fusion.canvas",
