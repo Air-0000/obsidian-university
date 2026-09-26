@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-19.md",
+                "file": "2026-09-27（Neo）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-19"
+              "title": "2026-09-27（Neo）"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 522
   },
   "right": {
     "id": "b6b5c640302d6456",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "简历附件/消融实验汇总.md",
+                "file": "2026-09-27（Neo）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.6666259765625,
-    "collapsed": true
+    "width": 299.6666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,9 +208,10 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "ea754d871fe4db1f",
+  "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
     "2026-09-19.md",
+    "2026-09-27（Neo）.md",
     "简历附件/消融实验汇总.md",
     "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
     "简历经历记录.md",
@@ -253,7 +253,6 @@
     "README.md",
     "Vision.canvas",
     "ToDoList.md",
-    "2026-05-09（todo：x）.md",
     "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
     "Tree/MultiModal_fusion.canvas",
