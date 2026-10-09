@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
+                "file": "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "留数定理应用于裂项"
+              "title": "留数定理（复变函数）"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482
+    "width": 285.00390625
   },
   "right": {
     "id": "b6b5c640302d6456",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
+                "file": "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,16 +208,23 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "38f212fff6c22a90",
+  "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
+    "2026-06-06（todo：x）.md",
+    "2026-06-05（todo：x）.md",
+    "2026-05-31（todo：x）.md",
+    "2026-05-30（craic：end）.md",
+    "2026-05-26（todo：x）.md",
+    "2026-05-26（craic）.md",
+    "2026-05-10（craic）.md",
+    "GPTSovit.canvas",
+    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计/未命名 1.md",
     "University/InClass/Math/概率统计",
     "University/InClass/Math/复变函数与积分变换/未命名.md",
     "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
     "University/InClass/Physics/大学物理/力矩的定义与运用.md",
     "University/InClass/Physics/大学物理/转动惯量的定义与应用.md",
-    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
-    "GPTSovit.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
     "University/InClass/Math/高等数学/03-一元积分学/定积分",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分",
@@ -225,10 +232,6 @@
     "Vision.canvas",
     "ToDoList.md",
     "2026-05-09（todo：x）.md",
-    "2026-05-26（todo：x）.md",
-    "2026-05-31（todo：x）.md",
-    "2026-06-05（todo：x）.md",
-    "2026-06-06（todo：x）.md",
     "2026-06-09.md",
     "2026-07-05.md",
     "2026-07-06.md",
@@ -248,9 +251,6 @@
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_structure.md",
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_doc_training_and_evaluation.md",
     "MultiModal_fusion/AGC_perception/Griffin/Griffin_database.md",
-    "MultiModal_fusion/AGC_perception/Griffin/Griffin_article.md",
-    "Excalidraw/Drawing 2026-05-05 18.57.57.excalidraw.md",
-    "2026-06-07（read：窄门）.md",
     "4ce59f04924273993f6a1a1068f5664e.jpg",
     "简历附件/07-4.jpg",
     "简历附件/10-1.png",
