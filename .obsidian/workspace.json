@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/高等数学/04-空间解析几何&向量/向量叉乘的定义与应用.md",
+                "file": "University/InClass/Math/线性代数/02-矩阵理论/矩阵的初等行列变换与等价矩阵.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "向量叉乘的定义与应用"
+              "title": "矩阵的初等行列变换与等价矩阵"
             }
           }
         ]
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "469d36a309e9de6e",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/高等数学/04-空间解析几何&向量/向量叉乘的定义与应用.md",
+                "file": "University/InClass/Math/线性代数/02-矩阵理论/矩阵的初等行列变换与等价矩阵.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +210,11 @@
   },
   "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
+    "University/InClass/Math/线性代数/02-矩阵理论/秩的意义.md",
+    "University/InClass/Math/高等数学/04-空间解析几何&向量/向量叉乘的定义与应用.md",
+    "University.zip",
+    "2026-09-27（Neo）.md",
+    "2026-09-19.md",
     "University/InClass/Math/高等数学/04-空间解析几何&向量/混合积的定义与应用(向量求体积).md",
     "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
     "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
@@ -231,18 +236,13 @@
     "GPTSovit.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计/未命名 1.md",
-    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计",
     "University/InClass/Math/复变函数与积分变换/未命名.md",
     "University/InClass/Physics/大学物理/力矩的定义与运用.md",
-    "University/InClass/Physics/大学物理/转动惯量的定义与应用.md",
     "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
     "University/InClass/Math/高等数学/03-一元积分学/定积分",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分",
-    "README.md",
     "Vision.canvas",
-    "ToDoList.md",
-    "2026-05-09（todo：x）.md",
     "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
     "简历附件/长沙理工大学_26322000006360346231.pdf",
@@ -251,8 +251,13 @@
     "Tree/MultiModal_fusion.canvas",
     "Tree",
     "MultiModal_fusion/Multi_OD",
-    "MultiModal_fusion",
     "4ce59f04924273993f6a1a1068f5664e.jpg",
-    "简历附件/07-4.jpg"
+    "简历附件/07-4.jpg",
+    "简历附件/10-1.png",
+    "00ce7cbef1f73fbc828f649ed77ad617.jpg",
+    "简历附件/08-1.png",
+    "简历附件/08-2.png",
+    "简历附件/07-3.png",
+    "简历附件/07-1.png"
   ]
 }
