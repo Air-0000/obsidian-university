@@ -136,8 +136,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "469d36a309e9de6e",
@@ -208,7 +207,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "08ef2c4ccfdb307a",
+  "active": "5e7e0706f336494d",
   "lastOpenFiles": [
     "2026-10-21（todo：）.md",
     "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
