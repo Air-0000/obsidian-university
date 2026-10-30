@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
+                "file": "2026-10-21（todo：）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "区间复现公式 的使用和由来"
+              "title": "2026-10-21（todo：）"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.00390625
+    "width": 522
   },
   "right": {
     "id": "b6b5c640302d6456",
@@ -136,7 +136,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "469d36a309e9de6e",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
+                "file": "2026-10-21（todo：）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,56 +208,56 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "5e7e0706f336494d",
+  "active": "38f212fff6c22a90",
   "lastOpenFiles": [
-    "2026-10-21（todo：）.md",
-    "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
-    "University/InClass/Math/高等数学/05-多元微分学/全微分与全导数的概念与运用.md",
-    "University/InClass/Math/高等数学/05-多元微分学/偏导数的定义与运用.md",
-    "University/InClass/Math/高等数学/05-多元微分学/多元隐函数偏导数求法.md",
-    "University/InClass/Math/线性代数/02-矩阵理论/矩阵的初等行列变换与等价矩阵.md",
-    "University/InClass/Math/线性代数/02-矩阵理论/秩的意义.md",
-    "University/InClass/Math/高等数学/04-空间解析几何&向量/向量叉乘的定义与应用.md",
-    "University.zip",
     "2026-09-27（Neo）.md",
+    "2026-10-21（todo：）.md",
     "2026-09-19.md",
-    "University/InClass/Math/高等数学/04-空间解析几何&向量/混合积的定义与应用(向量求体积).md",
-    "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
-    "University/InClass/Math/高等数学/02-一元微分学/一元隐函数的定义与导数求法.md",
+    "简历附件/消融实验汇总.md",
     "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
-    "University/InClass/Math/线性代数/01-行列式理论/行列式的实际意义与应用.md",
-    "University/InClass/Math/线性代数/01-行列式理论/子式的基础概念.md",
-    "University/InClass/Math/线性代数/02-矩阵理论/子矩阵的相关概念.md",
-    "University/InClass/Math/线性代数/01-行列式理论/余子式与代数余子式的定义与应用.md",
-    "University/InClass/Math/线性代数/01-行列式理论/逆排序定义与应用.md",
-    "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
-    "2026-06-06（todo：x）.md",
-    "2026-06-05（todo：x）.md",
-    "2026-05-31（todo：x）.md",
-    "2026-05-30（craic：end）.md",
-    "2026-05-26（todo：x）.md",
+    "简历经历记录.md",
+    "第一轮次任务清单.md",
+    "2026-07-06.md",
+    "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
+    "Excalidraw/参考方向.excalidraw.md",
+    "Excalidraw/电阻等效变换.excalidraw.md",
+    "Excalidraw/诺顿&戴维南.md",
+    "Excalidraw/向量叉乘与混合积.excalidraw.md",
+    "Excalidraw/函数.md",
+    "Excalidraw/二重平面积分.excalidraw.md",
+    "2026-05-10（craic）.md",
     "2026-05-26（craic）.md",
-    "GPTSovit.canvas",
+    "2026-06-09.md",
+    "简历附件/07-1.png",
+    "简历附件/05-2.jpg",
+    "简历附件/07-2-项目介绍书.pdf",
+    "简历附件/07-3.png",
+    "简历附件/08-2.png",
+    "简历附件/08-1.png",
+    "简历附件/10-2-论文.pdf",
+    "简历附件/10-1.png",
+    "简历附件/长沙理工大学_26322000006360346231.pdf",
+    "简历附件/长沙理工大学_20260704161057.pdf",
+    "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
+    "University.zip",
+    "University/InClass/Math/概率统计/未命名 1.md",
+    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计",
+    "University/InClass/Math/复变函数与积分变换/未命名.md",
+    "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
+    "University/InClass/Physics/大学物理/力矩的定义与运用.md",
+    "University/InClass/Physics/大学物理/转动惯量的定义与应用.md",
+    "GPTSovit.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
     "University/InClass/Math/高等数学/03-一元积分学/定积分",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分",
+    "README.md",
     "Vision.canvas",
     "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
-    "简历附件/长沙理工大学_26322000006360346231.pdf",
-    "简历附件/长沙理工大学_20260704161057.pdf",
-    "简历附件/07-2-项目介绍书.pdf",
     "Tree/MultiModal_fusion.canvas",
     "Tree",
-    "MultiModal_fusion/Multi_OD",
     "4ce59f04924273993f6a1a1068f5664e.jpg",
-    "简历附件/07-4.jpg",
-    "简历附件/10-1.png",
-    "00ce7cbef1f73fbc828f649ed77ad617.jpg",
-    "简历附件/08-1.png",
-    "简历附件/08-2.png",
-    "简历附件/07-3.png",
-    "简历附件/07-1.png"
+    "简历附件/07-4.jpg"
   ]
 }
