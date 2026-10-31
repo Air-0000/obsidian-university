@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
+                "file": "简历经历记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "区间复现公式 的使用和由来"
+              "title": "简历经历记录"
             }
           }
         ]
@@ -136,7 +136,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "469d36a309e9de6e",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
+                "file": "简历经历记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,8 +208,9 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "5e7e0706f336494d",
+  "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
+    "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
     "2026-10-21（todo：）.md",
     "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
     "University/InClass/Math/高等数学/05-多元微分学/全微分与全导数的概念与运用.md",
@@ -221,7 +223,6 @@
     "2026-09-27（Neo）.md",
     "2026-09-19.md",
     "University/InClass/Math/高等数学/04-空间解析几何&向量/混合积的定义与应用(向量求体积).md",
-    "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
     "University/InClass/Math/高等数学/02-一元微分学/一元隐函数的定义与导数求法.md",
     "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
     "University/InClass/Math/线性代数/01-行列式理论/行列式的实际意义与应用.md",
