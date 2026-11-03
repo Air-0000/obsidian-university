@@ -11,9 +11,9 @@
             "id": "08ef2c4ccfdb307a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "简历经历记录.md",
+                "file": "2026-10-21（todo：）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "简历经历记录"
+              "title": "2026-10-21（todo：）"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "简历经历记录.md",
+                "file": "2026-10-21（todo：）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,12 +210,19 @@
   },
   "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
-    "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
+    "README.md",
+    "ToDoList.md",
+    "Vision.canvas",
+    "Pasted image 20260828044003.png",
+    "2026-06-07（read：窄门）.md",
+    "2026-06-06（todo：x）.md",
+    "2026-05-26（todo：x）.md",
+    "简历经历记录.md",
+    "第一轮次任务清单.md",
     "2026-10-21（todo：）.md",
     "2026-09-27（Neo）.md",
     "2026-09-19.md",
-    "University/InClass/Math/高等数学/04-空间解析几何&向量/混合积的定义与应用(向量求体积).md",
-    "University/InClass/Math/高等数学/02-一元微分学/一元隐函数的定义与导数求法.md",
+    "简历附件/消融实验汇总.md",
     "University/InClass/Math/高等数学/01-函数连续&极限/（水平、铅垂、斜）渐进线的定义与求解.md",
     "2026-07-06.md",
     "University/InClass/Math/高等数学/03-一元积分学/三角切割函数的组合积分解法速记（CCTV）.md",
@@ -243,17 +250,10 @@
     "University/InClass/Math/概率统计/未命名 1.md",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计",
-    "University/InClass/Math/复变函数与积分变换/未命名.md",
-    "University/InClass/Math/高等数学/03-一元积分学/区间复现公式 的使用和由来.md",
-    "University/InClass/Physics/大学物理/力矩的定义与运用.md",
-    "University/InClass/Physics/大学物理/转动惯量的定义与应用.md",
     "GPTSovit.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
     "University/InClass/Math/高等数学/03-一元积分学/定积分",
     "University/InClass/Math/高等数学/03-一元积分学/不定积分",
-    "README.md",
-    "Vision.canvas",
-    "Pasted image 20260828044003.png",
     "Pasted image 20260828043910.png",
     "Tree/MultiModal_fusion.canvas",
     "Tree",
