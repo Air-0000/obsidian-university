@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-21（todo：）.md",
+                "file": "University/InClass/Math/线性代数/06-谱（spectrum）/特征值和特征向量的定义与运用.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-21（todo：）"
+              "title": "特征值和特征向量的定义与运用"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-21（todo：）.md",
+                "file": "University/InClass/Math/线性代数/06-谱（spectrum）/特征值和特征向量的定义与运用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,6 +210,7 @@
   },
   "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
+    "2026-10-21（todo：）.md",
     "README.md",
     "ToDoList.md",
     "Vision.canvas",
@@ -219,7 +220,6 @@
     "2026-05-26（todo：x）.md",
     "简历经历记录.md",
     "第一轮次任务清单.md",
-    "2026-10-21（todo：）.md",
     "2026-09-27（Neo）.md",
     "2026-09-19.md",
     "简历附件/消融实验汇总.md",
