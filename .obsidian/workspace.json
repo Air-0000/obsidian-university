@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/InClass/Math/线性代数/06-谱（spectrum）/特征值和特征向量的定义与运用.md",
+                "file": "2026-09-27（Neo）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "特征值和特征向量的定义与运用"
+              "title": "2026-09-27（Neo）"
             }
           }
         ]
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/InClass/Math/线性代数/06-谱（spectrum）/特征值和特征向量的定义与运用.md",
+                "file": "2026-09-27（Neo）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,6 +211,7 @@
   "active": "08ef2c4ccfdb307a",
   "lastOpenFiles": [
     "2026-10-21（todo：）.md",
+    "University/InClass/Math/线性代数/06-谱（spectrum）/特征值和特征向量的定义与运用.md",
     "README.md",
     "ToDoList.md",
     "Vision.canvas",
@@ -248,7 +249,6 @@
     "University/InClass/Math/复变函数与积分变换/留数定理（复变函数）.md",
     "University.zip",
     "University/InClass/Math/概率统计/未命名 1.md",
-    "University/InClass/Math/高等数学/03-一元积分学/不定积分/留数定理应用于裂项.md",
     "University/InClass/Math/概率统计",
     "GPTSovit.canvas",
     "University/InClass/Math/高等数学/03-一元积分学/广义（反常）积分",
